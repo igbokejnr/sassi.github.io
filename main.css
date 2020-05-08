@@ -1,0 +1,245 @@
+ebody{margin:0}
+
+#container{
+    height: 500px;
+    width: 100%;
+}
+
+.row{width:100%; justify-content:space-between; display:flex}
+    .col-1{width:8.3%; }
+    .col-2{width:16.6%; }
+        .col-22{width:18.5%}
+    .col-3{width:24.9%;}
+    .col-31{width:30.5%;}
+    .col-4{width:33.2%; }
+    .col-5{width:41.5%; }
+    .col-6{width:49.8%; }
+        .col-66{width:55.5%}
+    .col-7{width:58.1%; }
+    .col-8{width:66.4%; }
+    .col-9{width:74.7%; }
+    .col-10{width:83.0%;}
+    .col-11{width:91.3%;}
+    .col-12{width:99.6%;}
+
+
+#nav{
+    height:50px;
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+
+    
+}
+
+ul li a{text-decoration: none; color: black;}
+
+#leftnav li{
+    list-style-type:none;
+}
+
+#leftnav li a{font-size: 20px; font-family: runda,sans-serif}
+#midnav{
+    display:flex;
+    width:33.2%;
+    list-style-type:none;
+    justify-content: space-between;
+    padding-right: 330px;
+}
+ #rightnav li{
+    list-style-type:none;
+    
+    padding-right: 20px;
+    
+}
+
+#rightnav{display:flex;}
+#rightnav li{
+    list-style-type:none;
+}
+
+
+.first{
+    display: flex;
+    height:600px;
+    
+    background-image: url(img/first.jpg);
+   
+}
+
+.wed-dresses{
+    position:relative; 
+    left:870px;
+    top:220px;
+}
+
+.collect{position: relative;bottom:15px;}
+.view{height:40px; width:200px; background-color:black; border:2px solid black;}
+
+#bridal{font-size: 45px;
+        position:relative; 
+        top:470px;
+        right:50px;
+    }
+    #bridal:hover a{color:grey}
+    #bridal a{
+        text-decoration: none;
+        color:black;}
+
+
+
+
+#fash{font-size: 45px;
+    position:relative; 
+    top:373px;
+    left:180px;
+    }
+
+#fash a{
+    text-decoration: none;
+    color:black;}
+
+#fash:hover a{color:grey;}
+    
+    
+
+.row{
+    display:flex;
+    height:500px;
+    width: 100%;
+    padding-top:80px;
+}
+
+.reflection{height:400px; margin-left:30px;background-image: url(img/raz.jpg); }
+.moment{padding-top:400px;font-size: 13px}
+        .moment a{text-decoration: none; color:black}
+            .momentt:hover {color:rgb(136, 93, 102)}
+
+.romance{ height:400px;}
+    .wild{padding-top:400px; font-size: 13px}
+        .wild a{text-decoration: none; color:black}
+            .wildd:hover {color:rgb(136, 93, 102)}
+
+.collection{height:400px; margin-right:30px; }
+    .enamour{padding-top:400px; font-size: 13px}
+        .enamour a{text-decoration: none; color:black}
+            .enamourr:hover {color:rgb(136, 93, 102)}
+
+.third{height:500px;}
+h2{text-align: center; padding-top:50px;}
+
+.signature{position: relative; left:400px;}
+.badge{position: relative; left:770px; bottom:50px;}
+
+.arrivals{font-size:25px; margin-left:30px;}
+.new-arrivals{
+    width:100%; 
+    justify-content:space-between; 
+    display:flex;
+    padding-top:22px;
+}
+    .blue{padding-left: 30px;}
+    .blue a {font-size: 13px; text-decoration: none; color: black;}
+    .blue a {font-size: 13px; text-decoration: none; color: black;}
+        .grey{color: grey;}
+
+    .damascus a {font-size: 13px; text-decoration: none; color: black;}
+    .brooklyn a {font-size: 13px;text-decoration: none; color: black;}
+    .padua a {font-size: 13px;text-decoration: none; color: black;}
+    .manhattan a {font-size: 13px;text-decoration: none; color: black;}
+    .tie a {font-size: 13px;text-decoration: none; color: black;}
+
+    .contain{width:100%; 
+        justify-content:space-between; 
+        display:flex;
+        height:500px;
+        padding-top:135px;
+
+    }
+
+    .showcase{padding-left:115px;}
+    .london{padding-right:300px;}
+
+    .phone a{text-decoration:none; color:grey; font-size:15px;}
+
+    button{height:50px; width:150px; background-color:black; border:2px solid black;}
+    button a {text-decoration: none; color:white; font-size:11px;}
+    button:hover{background-color:transparent; }
+    button:hover a{color:black;}
+
+    #button2{height:50px; width:150px; background-color: white; 
+        position:relative; left:10px; border:2px solid black;}
+    #button2:hover{background-color:black}
+    #button2 a {text-decoration: none; color:black; font-size:11px }
+    #button2:hover a{color:white}
+
+
+    .about-sassi{height:530px;}
+    .holford{font-size:45px;  padding-top:250px; padding-left:80px;}
+        .brand {height:50px; width:150px; 
+            position: relative;left:80px;bottom:10px;}
+
+    .magazine{display:flex; 
+            height:600px;
+            padding-top:130px;
+            justify-content:space-between;
+        }
+
+    .doll{height:580px;}
+
+    .latest{padding-top:50px; }
+    .bold{font-size:65px;}
+    .dress{position:relative; bottom:40px;}
+    .international{position:relative; bottom:40px;}
+    .read{background-color:white; border:2px solid black;}
+    .read:hover{background-color:black;}
+    .read a{color:black}
+    .read:hover a{color:white;}
+
+    .who {padding-top:100px;
+         margin-left:30px;
+         font-size:67px;
+        } 
+
+    .text-holder{
+        display:flex; 
+            height:300px;
+            
+            justify-content:space-between;
+    }
+
+    .text1{margin-left:40px; }
+
+    .text2{margin-right:50px;}
+
+    .instagram{font-size:50px; text-align: center;}
+
+    .last{display:flex;
+            height:300px;
+            justify-content: space-between;
+
+    }
+    
+    .hope{padding-left:50px;}
+    .back3{padding-right:30px;}
+
+    .footer{display:flex;
+            height:200px;
+            
+            
+    }
+
+    .footer ul li{list-style-type: none;  padding-top:8px}
+
+    .footer ul li a{font-size:11px; color:grey; }
+
+    .title{font-size: 13px;}
+
+
+    .list2{padding-left:230px;}
+    .list3{padding-left:70px;}
+    .list4{padding-left:70px;}
+    .list5{padding-left:30px;}
+
+    .title>foot{padding-top:70px;}
+    .footr{padding-top:10px;}
